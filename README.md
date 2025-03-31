@@ -279,6 +279,3 @@ Built a **FastAPI server** with three endpoints
 Wrote **automated tests** using `requests`  
 Improved testing with **pytest**  
 Discussed **expanding to real-world applications**  
-
-Find it at:
-[Docker Hub](https://hub.docker.com/r/yash2204/myrepo)
